@@ -13,19 +13,12 @@ var answers = [
   "definitely",
   "Absolutly Not",
   "The answer lies within you",
-  "Question denied",
+  c.red + "Question denied." + c.x + "Try again later",
   "Yup"
 ]
   var easterEgg1 = ["Count to 10", "1,2,3,4,5,6,7,8,9,10"];
   var easterEgg2 = ["What is amazing", "YOU!"];
   var easterEggs = [easterEgg1, easterEgg2];
-
-  /*
-var easterEggs = [
-  ["Count to ten", "1,2,3,4,5,6,7,8,9,10"],
-  ["What is amazing", "YOU"]
-];
-*/
 
 function print(message) {
   process.stdout.write(message + "\n");
