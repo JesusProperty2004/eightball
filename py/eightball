@@ -17,4 +17,10 @@ answers = [
         "May the answer lie within you"
 ]
 
-easterEgg
+easterEgg1 = ["Who are you", "I am the amazing illuminati"]
+
+easterEgg2 = ["What is 0÷0", "Pretend you have 0 cookies divided evenly between 0 friends, how much cookies would each friend get. See it doesn't make sense, and cookie moster is sad because there is no cookies and you are sad because you have no friends"]
+
+easterEggs = ["easterEgg1, easterEgg2"]
+
+
