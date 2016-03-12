@@ -3,3 +3,18 @@
 import skilstak.colors as c
 
 print(c.v +"Welcome to the magic eightball")
+
+answers = [
+        "Yes",
+        "No",
+        "Maybe",
+        "Sorry took a short break",
+        "definitely"
+        "definitely not"
+        "I hope not"
+        "I hope so"
+        "NEVER!"
+        "May the answer lie within you"
+]
+
+easterEgg
